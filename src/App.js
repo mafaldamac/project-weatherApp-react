@@ -47,7 +47,7 @@ export default function App() {
           Weather App
           <br />
           <a
-            href="https://github.com/mafaldamac/project-weatherApp-plus"
+            href="https://github.com/mafaldamac/project-weatherApp-react"
             target="_blank"
             rel="noreferrer"
           >
