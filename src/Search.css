@@ -1,0 +1,22 @@
+#search {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin: 1% auto;
+}
+
+#current-button {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 18px;
+  color: gray;
+  text-align: center;
+  margin: 1% auto;
+}
+
+#search-button {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 18px;
+  color: gray;
+  text-align: center;
+  margin: 0% auto;
+}

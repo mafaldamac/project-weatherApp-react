@@ -1,0 +1,23 @@
+.App {
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  text-align: center;
+  display: block;
+}
+
+h1 {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+footer {
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}

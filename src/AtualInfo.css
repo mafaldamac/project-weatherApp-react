@@ -1,0 +1,73 @@
+.Atualinfo {
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  border: 2px solid #cdac81;
+  box-shadow: 5px 5px #e7e7de;
+}
+
+.row {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+}
+
+.windTemps {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+  color: gray;
+}
+
+.humTemps {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+  color: gray;
+}
+
+#celsius-link {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+  color: gray;
+  text-decoration: none;
+}
+
+#fahrenheit-link {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+  color: gray;
+  text-decoration: none;
+}
+
+#icon-clouds {
+  font-size: 50px;
+}
+
+#description-weather {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#current-date {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#current-hour {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 25px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#search-city {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 35px;
+  padding: 10px;
+  margin: 10px;
+}
